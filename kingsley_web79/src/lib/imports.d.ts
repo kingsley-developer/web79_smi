@@ -1,0 +1,1 @@
+declare module "@daym3l/react-profile-image"

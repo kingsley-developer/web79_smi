@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "course":"PHP And MYSQL",
+        "img":"../pics/10phpmysql.png",
+        "price":75000
+    },
+    {
+        "id":2,
+        "course":"Javascript",
+        "img":"../pics/640px-Unofficial_JavaScript_logo_2.svg.png",
+        "price":50000
+    },
+    {
+        "id":3,
+        "course":"Python And Django",
+        "img":"../pics/python-django-1024x576.jpg",
+        "price":100000
+    },
+    {
+        "id":4,
+        "course":"Ethical Hacking",
+        "img":"../pics/eth.jpg",
+        "price":650000
+    },
+    {
+        "id":5,
+        "course":"Cyber Security",
+        "img":"../pics/eth.jpg",
+        "price":200000
+    },
+    {
+        "id":6,
+        "course":"Digital Marketing",
+        "img":"../pics/Marketing-Data_Types.png",
+        "price":60000
+    },
+    {
+        "id":7,
+        "course":"Computer Basics",
+        "img":"../pics/Basic-information-of-computer.jpg",
+        "price":50000
+    },
+    {
+        "id":8,
+        "course":"UI/UX Design",
+        "img":"../pics/1667px-Figma-logo.svg.png",
+        "price":100000
+    },
+    {
+        "id":9,
+        "course":"Graphics Design",
+        "img":"../pics/Web-designer-scaled-1.jpg",
+        "price":60000
+    }
+]
